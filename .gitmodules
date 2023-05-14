@@ -1,0 +1,6 @@
+[submodule "OrgApp"]
+	path = OrgApp
+	url = https://github.com/uzi2991/OrgApp.git
+[submodule "OrgAppFrontend"]
+	path = OrgAppFrontend
+	url = https://github.com/uzi2991/OrgAppFrontend.git
